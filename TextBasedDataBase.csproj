@@ -6,5 +6,10 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
   </PropertyGroup>
+  <ItemGroup>
+    <Compile Remove="Database.Tests\**" />
+    <EmbeddedResource Remove="Database.Tests\**" />
+    <None Remove="Database.Tests\**" />
+  </ItemGroup>
 
 </Project>
