@@ -1,5 +1,4 @@
-namespace Database.Tests;
-using Write;
+namespace JH.Database.Tests;
 
 public class UnitTest1
 {

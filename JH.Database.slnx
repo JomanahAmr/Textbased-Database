@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="JH.Database.Console/JH.Database.Console.csproj" />
+  <Project Path="JH.Database.Tests/JH.Database.Tests.csproj" />
+  <Project Path="JH.Database/JH.Database.csproj" />
+</Solution>

@@ -1,4 +1,4 @@
-namespace Write;
+namespace JH.Database;
 using System;
 using System.IO;
 public class Writing{
